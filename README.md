@@ -58,9 +58,11 @@ We acknowledge the following open-source projects that made this work possible:
 ## Citation
 If you use this work in your research, please cite:
 ```bibtex
-@article{zheng2025voicecraftx,
+@inproceedings{zheng2025voicecraft,
   title={VoiceCraft-X: Unifying Multilingual, Voice-Cloning Speech Synthesis and Speech Editing},
-  author={Zhisheng Zheng, Puyuan Peng, Anuj Diwan, Cong Phuoc Huynh, Xiaohang Sun, Zhu Liu, Vimal Bhat, David Harwath},
+  author={Zheng, Zhisheng and Peng, Puyuan and Diwan, Anuj and Huynh, Cong Phuoc and Sun, Xiaohang and Liu, Zhu and Bhat, Vimal and Harwath, David},
+  booktitle={Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing},
+  pages={2737--2756},
   year={2025}
 }
 ```
